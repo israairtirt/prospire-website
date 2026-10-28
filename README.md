@@ -21,6 +21,7 @@ Bilingual website for Prospire Foundation, a Libyan civil society foundation tha
 - A motion system (word-split headings, count-ups, reveals) that respects reduced-motion settings.
 - Content (people, initiatives, evidence briefs) kept in data files, apart from the app code.
 
+![The network map: clicking a city opens a sourced evidence brief](.github/screenshots/prospire-website-network.webp)
 ![Prospire Foundation, About](.github/screenshots/prospire-website-2.webp)
 
 ## About this repository
