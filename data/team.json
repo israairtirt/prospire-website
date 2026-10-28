@@ -1,0 +1,419 @@
+{
+  "version": "2026-10-21",
+  "note": "Display order is not a rank. Members without photos have not consented to publishing a photo; do not add photos for them.",
+  "governance": [
+    {
+      "id": "hamida",
+      "group": "governance",
+      "order": 1,
+      "name": {
+        "ar": "أ.د. حميدة ميلاد أبورونية",
+        "en": "Prof. Dr. Hamida Milad Aburoniya"
+      },
+      "role": {
+        "ar": "رئيسة الجمعية العمومية",
+        "en": "President of the General Assembly"
+      },
+      "bio": {
+        "ar": [
+          "أستاذة الاقتصاد بالأكاديمية الليبية للدراسات العليا، ودكتوراه من جامعة سالفورد (بريطانيا)",
+          "مستشارة سابقة لوزارة الحكم المحلي، ورئيسة اللجنة الاستشارية لمجلس المنافسة ومنع الاحتكار",
+          "ممثلة تجمع دول الساحل والصحراء لدى الاتحاد الأفريقي",
+          "مستشارة ومدربة مع UNDP وUSAID وTetra Tech"
+        ],
+        "en": [
+          "Professor of Economics, Libyan Academy for Postgraduate Studies; PhD, University of Salford (UK)",
+          "Former Advisor to the Ministry of Local Governance; Head of the Advisory Committee of the Competition & Antitrust Council",
+          "Representative of CEN-SAD to the African Union",
+          "Consultant and trainer with UNDP, USAID and Tetra Tech"
+        ]
+      },
+      "photo": "team_hamida.png"
+    },
+    {
+      "id": "souf",
+      "group": "governance",
+      "order": 2,
+      "name": {
+        "ar": "سوف محمد أبورونية",
+        "en": "Souf Mohamed Aburoniya"
+      },
+      "role": {
+        "ar": "المؤسس ورئيس مجلس الإدارة",
+        "en": "Founder & Chairperson of the Board"
+      },
+      "bio": {
+        "ar": [
+          "قاد العديد من المشاريع والبرامج الوطنية والدولية، بخبرة تتجاوز 10 سنوات في المشروعات الممولة دوليًا والتنسيق الميداني",
+          "أدار مبادرة «Shabab Vote» الوطنية لتمكين الشباب مع IFES (12 شهرًا)، وحملة «لازم تعرف» للتوعية المدنية مع UNDP في 20 بلدية",
+          "قاد برنامج مراكز الكفاءة البلدية (UNDP)، والخطة الاتصالية الاستراتيجية مع GIZ، وأول مسار PMP منظم في ليبيا مع Cowater",
+          "نفّذ مسح بيانات ورسم خرائط أصحاب المصلحة في طرابلس وبنغازي وسبها لصالح UNDP",
+          "قاد عملية إغاثية لتوزيع سلال غذائية على 3,000 مستفيد في 6 بلديات بالشرق",
+          "رئيس سابق لقسم الإحصاء والبيانات باللجنة المركزية لانتخابات المجالس البلدية، وشبكة عمل مباشرة مع 60 مجلسًا بلديًا"
+        ],
+        "en": [
+          "Has led numerous national and international projects and programmes, with 10+ years in donor-funded delivery and field coordination",
+          "Led the national “Shabab Vote” youth initiative with IFES (12 months) and the UNDP “Lazem Ta’rif” civic campaign across 20 municipalities",
+          "Led the Municipal Competency Centres programme (UNDP), a GIZ strategic communication plan and Libya’s first structured PMP journey (Cowater)",
+          "Delivered field data collection and stakeholder mapping in Tripoli, Benghazi and Sabha for UNDP",
+          "Led a relief operation distributing food baskets to 3,000 beneficiaries in 6 eastern municipalities",
+          "Former Head of Statistics & Data, Central Committee for Municipal Council Elections; direct network with 60 municipal councils"
+        ]
+      },
+      "photo": "team_souf.png"
+    },
+    {
+      "id": "salem",
+      "group": "governance",
+      "order": 3,
+      "name": {
+        "ar": "م. سالم محمد الشريف بن تاهية",
+        "en": "Eng. Salem Mohamed Al-Sharif Bentahia"
+      },
+      "role": {
+        "ar": "نائب رئيس مجلس الإدارة",
+        "en": "Vice Chairperson of the Board"
+      },
+      "bio": {
+        "ar": [
+          "رئيس سابق للجنة المركزية لانتخابات المجالس البلدية — نحو 135 عملية انتخابية",
+          "مدير عام العمليات الانتخابية بالمفوضية الوطنية العليا للانتخابات — انتخابات المؤتمر الوطني العام 2012",
+          "مستشار لدى UNDP في الحكم المحلي والدعم الانتخابي",
+          "عضو الفريق الليبي–التونسي لخط غاز مليتة–قابس، واللجنة الليبية–الإيطالية لمشاريع غاز غرب ليبيا"
+        ],
+        "en": [
+          "Former Chair, Central Committee for Municipal Council Elections (about 135 electoral processes)",
+          "Director-General of Electoral Operations, High National Elections Commission (2012 elections)",
+          "UNDP advisor on local governance and elections",
+          "Libyan–Tunisian Mellitah–Gabès gas team; Libyan–Italian West Libya gas committee"
+        ]
+      },
+      "photo": "team_salem.png"
+    },
+    {
+      "id": "abdulhafid",
+      "group": "governance",
+      "order": 4,
+      "name": {
+        "ar": "عبد الحفيظ سعد أحمد",
+        "en": "Abdulhafidh Saad Ahmed"
+      },
+      "role": {
+        "ar": "المستشار القانوني ومقرر الجمعية العمومية",
+        "en": "Legal Advisor & General Assembly Rapporteur"
+      },
+      "bio": {
+        "ar": [
+          "رئيس الفريق القانوني ولجنة الطعون باللجنة المركزية لانتخابات المجالس البلدية",
+          "شارك في إعداد ضوابط انتخابات المجالس البلدية (2020 و2022)",
+          "مستشار قانوني لمشروع الحكم المحلي — UNDP",
+          "مدرب القضاة والمحامين على الإطار القانوني للانتخابات مع IFES وUNDP"
+        ],
+        "en": [
+          "Head of the legal team and objections committee, Central Committee for Municipal Council Elections",
+          "Contributed to the municipal election regulations of 2020 and 2022",
+          "Legal Advisor, UNDP Local Governance project",
+          "Trainer of judges and lawyers on electoral law with IFES and UNDP"
+        ]
+      },
+      "photo": "team_abdulhafid.png"
+    },
+    {
+      "id": "fady",
+      "group": "governance",
+      "order": 5,
+      "name": {
+        "ar": "فادي نجيب المرزوقي",
+        "en": "Fady Nagib Elmarzugi"
+      },
+      "role": {
+        "ar": "أمين الصندوق",
+        "en": "Treasurer"
+      },
+      "bio": {
+        "ar": [
+          "حاصل على شهادة CCNA ويدرس تقنية المعلومات",
+          "شارك في تنظيم وتنسيق فعالية EPAIX 2026 للمدفوعات الإلكترونية",
+          "خبرة في بحوث السوق والمنافسين"
+        ],
+        "en": [
+          "CCNA-certified; studying information technology",
+          "Helped organise and coordinate EPAIX 2026, an e-payments event",
+          "Experience in market and competitor research"
+        ]
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    },
+    {
+      "id": "natali",
+      "group": "governance",
+      "order": 6,
+      "name": {
+        "ar": "ناتالي كارايان",
+        "en": "Natali Karayan"
+      },
+      "role": {
+        "ar": "مستشارة دولية للحوكمة والبرامج الانتخابية",
+        "en": "International Advisor — Governance & Elections"
+      },
+      "bio": {
+        "ar": [
+          "مسؤولة انتخابات في مشروع الانتخابات المحلية — UNDP ليبيا، طرابلس",
+          "مستشارة مشروع PEPOL مع Cowater في ليبيا",
+          "مهام انتخابية مع بعثات الأمم المتحدة في الكونغو الديمقراطية وبوروندي، ومع OSCE/ODIHR"
+        ],
+        "en": [
+          "Electoral Officer, UNDP Libya Local Elections Project, Tripoli",
+          "Project consultant on PEPOL with Cowater in Libya",
+          "Electoral roles with UN missions in DR Congo and Burundi, and OSCE/ODIHR"
+        ]
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    },
+    {
+      "id": "alkhazimi",
+      "group": "governance",
+      "order": 7,
+      "name": {
+        "ar": "محمد أحمد الخازمي",
+        "en": "Mohamed Ahmed Alkhazimi"
+      },
+      "role": {
+        "ar": "عضو مجلس الإدارة — التحول الرقمي",
+        "en": "Board Member — Digital Transformation"
+      },
+      "bio": {
+        "ar": [
+          "خبرة تتجاوز 5 سنوات في إدارة الأنظمة والشبكات وMicrosoft 365",
+          "البنية التحتية متعددة المواقع وترحيل الأنظمة",
+          "ضمن الفريق التقني الذي يقود تطوير تطبيق بيئتي"
+        ],
+        "en": [
+          "5+ years in systems and network administration and Microsoft 365",
+          "Multi-site infrastructure and system migrations",
+          "Part of the technical team leading development of the Beati app"
+        ]
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    }
+  ],
+  "executive": [
+    {
+      "id": "maureen",
+      "group": "executive",
+      "order": 1,
+      "name": {
+        "ar": "مورين الطويني",
+        "en": "Maureen Tuweni"
+      },
+      "role": {
+        "ar": "المدير التنفيذي",
+        "en": "Executive Director"
+      },
+      "bio": {
+        "ar": "قيادية في الإدارة التعليمية وخبيرة في تطوير المناهج؛ عميدة بكلية IMU للإدارة والتكنولوجيا، ومديرة مدارس دولية في طرابلس، وخبرة إدارية مع Mott MacDonald الدولية.",
+        "en": "Education-management leader and curriculum-development expert; Dean at IMU College of Management & Technology, principal of international schools in Tripoli, and management experience with Mott MacDonald International."
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    },
+    {
+      "id": "mbentahia",
+      "group": "executive",
+      "order": 2,
+      "name": {
+        "ar": "م. محمد سالم بن تاهية",
+        "en": "Eng. Mohamed Salem Bentahia"
+      },
+      "role": {
+        "ar": "إدارة المشاريع",
+        "en": "Project Management"
+      },
+      "bio": {
+        "ar": "أكثر من 13 عامًا في العمليات والمشاريع؛ نائب مدير العمليات والمشاريع في ديتسمان ليبيا لخدمات النفط والغاز، وأسس فرع Omega Gate Tech في ليبيا وأطلق منصة Omega Academy للتعلم الإلكتروني.",
+        "en": "13+ years in operations and projects; Deputy Operations & Project Manager at Dietsmann Libya (oil & gas services); founded Omega Gate Tech’s Libya branch and launched the Omega Academy e-learning platform."
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    },
+    {
+      "id": "jinan",
+      "group": "executive",
+      "order": 3,
+      "name": {
+        "ar": "جنان عيسى رواب",
+        "en": "Jinan Issa Rawab"
+      },
+      "role": {
+        "ar": "مسؤولة التواصل الاستراتيجي الدولي",
+        "en": "International Strategic Communication Officer"
+      },
+      "bio": {
+        "ar": "خبرة أممية داخل ليبيا وخارجها: الحماية والمساعدة القانونية مع الأمم المتحدة في طرابلس، والشراكات والمشتريات والعناية الواجبة ومراجعة العقود مع UNDP. ماجستير العلوم السياسية العالمية — جامعة مالمو.",
+        "en": "UN experience in Libya and abroad: protection and legal assistance with the UN in Tripoli; partnerships, procurement, due diligence and contract review with UNDP. MA Global Political Science, Malmö University."
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    },
+    {
+      "id": "ghaida",
+      "group": "executive",
+      "order": 4,
+      "name": {
+        "ar": "غيداء شنبور",
+        "en": "Ghayda Shanbur"
+      },
+      "role": {
+        "ar": "مسؤولة التخطيط الاستراتيجي",
+        "en": "Strategic Planning Officer"
+      },
+      "bio": {
+        "ar": [
+          "متخصصة في العلاقات الدولية (جامعة شرق المتوسط، وجامعة الأخوين بالمغرب)",
+          "أمينة عامة لنادي WEmpower لتمكين المرأة: نسّقت الفعاليات، وضاعفت التفاعل الرقمي، وأسست شراكة مع منظمة مجتمع مدني محلية",
+          "محررة متطوعة في إذاعة جسور FM (عربي/إنجليزي)، ومتدربة في معهد تطوير القيادة",
+          "معلّمة في مدرسة دولية بطرابلس"
+        ],
+        "en": [
+          "International relations specialist (Eastern Mediterranean University; Al Akhawayn University, Morocco)",
+          "General Secretary of the WEmpower women’s empowerment club: coordinated events, doubled digital engagement and set up a partnership with a local NGO",
+          "Volunteer editor at Joussour FM (Arabic/English); trained at the Leadership Development Institute",
+          "Teacher at an international school in Tripoli"
+        ]
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    },
+    {
+      "id": "esraa",
+      "group": "executive",
+      "order": 5,
+      "name": {
+        "ar": "إسراء طرباقية",
+        "en": "Esraa Tarbaghia"
+      },
+      "role": {
+        "ar": "قائدة الحلول والخدمات التقنية",
+        "en": "Technical Solutions & Services Lead"
+      },
+      "bio": {
+        "ar": "نفذت مشروعات Odoo متكاملة لأكثر من 5 عملاء؛ معتمدة في Odoo 19 وISO/IEC 27001 Lead Auditor، ورأست اتحاد الطلبة في جامعتها.",
+        "en": "Delivered end-to-end Odoo implementations for 5+ clients; Odoo 19 certified and ISO/IEC 27001 Lead Auditor; former head of her university’s student union."
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    },
+    {
+      "id": "darbi",
+      "group": "executive",
+      "order": 6,
+      "name": {
+        "ar": "مصطفى دربي",
+        "en": "Mustafa Darbi"
+      },
+      "role": {
+        "ar": "تطوير الأعمال",
+        "en": "Business Development"
+      },
+      "bio": {
+        "ar": "خبرة في العمليات الانتخابية باللجنة المركزية لانتخابات المجالس البلدية، وفي الإعلان والتصميم والعمليات الميدانية النفطية.",
+        "en": "Experience in electoral operations with the Central Committee for Municipal Council Elections, advertising and design, and oil-field operations."
+      },
+      "photo": "team_darbi.png"
+    },
+    {
+      "id": "aljundi",
+      "group": "executive",
+      "order": 7,
+      "name": {
+        "ar": "محمد الجندي",
+        "en": "Mohamed Aljundi"
+      },
+      "role": {
+        "ar": "قائد تسليم التدريب والبرامج التدريبية والعمليات",
+        "en": "Training Delivery, Programmes & Operations Lead"
+      },
+      "bio": {
+        "ar": [
+          "يقود تسليم البرامج التدريبية من التخطيط والجدولة حتى التنفيذ",
+          "متابعة المدربين والمشاركين وجودة التسليم",
+          "إدارة الجوانب التشغيلية واللوجستية للبرامج"
+        ],
+        "en": [
+          "Leads delivery of training programmes from planning and scheduling to implementation",
+          "Follows up trainers, participants and delivery quality",
+          "Manages the operational and logistical side of programmes"
+        ]
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    },
+    {
+      "id": "ayman",
+      "group": "executive",
+      "order": 8,
+      "name": {
+        "ar": "أيمن الهنشيري",
+        "en": "Ayman Alhinshiri"
+      },
+      "role": {
+        "ar": "التصميم والهوية البصرية",
+        "en": "Design & Visual Identity"
+      },
+      "bio": {
+        "ar": "أكثر من 9 سنوات في بناء الهويات البصرية والحملات الإعلانية للمنصات الرقمية والمطبوعة.",
+        "en": "9+ years building visual identities and advertising campaigns for digital and print."
+      },
+      "photo": null,
+      "photo_note": "No photo — member has not consented to publishing a photo"
+    }
+  ],
+  "team_numbers": [
+    {
+      "value": "+40",
+      "ar": "عامًا من القيادة العليا في النفط والغاز والمشروعات الكبرى والعمليات الانتخابية",
+      "en": "years of senior leadership in oil & gas, major projects and electoral operations"
+    },
+    {
+      "value": "135",
+      "ar": "عملية انتخابية بلدية خُطط لها ونُفذت تحت قيادة أعضاء من الفريق",
+      "en": "municipal electoral processes planned and delivered under team leadership"
+    },
+    {
+      "value": "60",
+      "ar": "مجلسًا بلديًا في شبكة عمل مباشرة تغطي الغرب والشرق والجنوب",
+      "en": "municipal councils in a direct working network across West, East and South"
+    },
+    {
+      "value": "+25",
+      "ar": "عامًا في البحث الاقتصادي والسياسات والتنمية المستدامة",
+      "en": "years in economic research, policy and sustainable development"
+    },
+    {
+      "value": "+8",
+      "ar": "جهات دولية عمل معها الفريق: UNDP · IFES · GIZ · Cowater · Chemonics · USAID · بعثات الأمم المتحدة",
+      "en": "international bodies the team has worked with: UNDP · IFES · GIZ · Cowater · Chemonics · USAID · UN missions"
+    },
+    {
+      "value": "15",
+      "ar": "عضوًا في الحوكمة والتنفيذ: اقتصاد، قانون، برامج، تعليم، تقنية، شراكات",
+      "en": "members across governance and delivery: economics, law, programmes, education, technology, partnerships"
+    }
+  ],
+  "team_numbers_note": {
+    "ar": "الأرقام تعكس الخبرات المهنية الموثقة لأعضاء الفريق، ولا تمثل سجلًا تنفيذيًا مؤسسيًا لبروسباير. ملف تسجيل المؤسسة مقدَّم إلى مفوضية المجتمع المدني (قيد الإجراء).",
+    "en": "Figures reflect the documented professional experience of team members; they are not Prospire’s own institutional track record. Prospire’s registration file has been submitted to the Civil Society Commission (in process)."
+  },
+  "contact": {
+    "whatsapp": "+218 91 591 5115",
+    "email": "prospirefoundation@gmail.com",
+    "website": "www.prospire.ly",
+    "address": {
+      "ar": "النوفليين – طرابلس – ليبيا",
+      "en": "Al-Nofliyen – Tripoli – Libya"
+    }
+  }
+}

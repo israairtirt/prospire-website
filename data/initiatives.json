@@ -1,0 +1,468 @@
+{
+  "version": "2026-10-21b",
+  "owner": "Prospire Foundation for Community Development & Training",
+  "note": "Content for the website initiatives section. Status fields must be updated as each initiative progresses. Figures carry their source; do not remove sources.",
+  "initiatives": [
+    {
+      "id": "mahira-woman",
+      "status_badge": {
+        "ar": "نُفذت المرحلة الأولى",
+        "en": "Phase 1 delivered"
+      },
+      "title": {
+        "ar": "امرأة ماهرة",
+        "en": "Mahira Woman"
+      },
+      "tagline": {
+        "ar": "من المهارة إلى الفرصة",
+        "en": "Skills into opportunity"
+      },
+      "summary": {
+        "ar": "أولى مبادرات بروسباير المنفذة: تمكين مهاري وشمول اقتصادي للمرأة، يجعل التدريب المهني التطبيقي في متناولها داخل بلديتها، ويبني مسارًا واقعيًا نحو الممارسة المهنية والعمل الحر.",
+        "en": "Prospire's first delivered initiative: women's skills and economic inclusion that puts practical vocational training within reach inside the municipality and builds a realistic path to professional practice and self-employment."
+      },
+      "need": {
+        "ar": [
+          "95% من النساء العاملات في ليبيا يعملن في القطاع العام، والفرص خارجه محدودة (صندوق النقد الدولي، 2025).",
+          "تكلفة التدريب المهني الجيد عائق حقيقي أمام كثير من النساء.",
+          "بُعد مراكز التدريب يضيف عائق التنقل."
+        ],
+        "en": [
+          "95% of employed women in Libya work in the public sector; opportunity outside it is limited (IMF, 2025).",
+          "The cost of quality vocational training is a real barrier for many women.",
+          "Distance to training centres adds a mobility barrier."
+        ]
+      },
+      "response": {
+        "ar": "نموذج يزيل العوائق الثلاثة معًا: تخفيض الرسوم 90%، والتدريب داخل مراكز المرأة البلدية، والتعلم بالممارسة.",
+        "en": "A model that removes all three barriers at once: a 90% fee reduction, training inside municipal women's centres, and learning by doing."
+      },
+      "model": {
+        "ar": [
+          "الإتاحة",
+          "الممارسة",
+          "التنفيذ المحلي",
+          "التدرّج نحو الدخل"
+        ],
+        "en": [
+          "Access",
+          "Practice",
+          "Local delivery",
+          "Progression to income"
+        ]
+      },
+      "key_figures": [
+        {
+          "value": "60",
+          "ar": "سيدة مستهدفة",
+          "en": "women targeted"
+        },
+        {
+          "value": "90%",
+          "ar": "تخفيض في الرسوم",
+          "en": "fee reduction"
+        },
+        {
+          "value": "2",
+          "ar": "بلديتان نُفذت فيهما المرحلة الأولى",
+          "en": "municipalities delivered"
+        },
+        {
+          "value": "2",
+          "ar": "بلديتان قيد التحضير",
+          "en": "municipalities in preparation"
+        }
+      ],
+      "technical_status": {
+        "ar": "نُفذت المرحلة الأولى في يوليو–أغسطس 2026: تدريب تطبيقي على التجميل والمكياج الاحترافي لسيدات من مختلف الأعمار، بالعرض المباشر والممارسة تحت الإشراف. قياس الإتمام واستخدام المهارة بعد التدريب: لم يُنشر بعد.",
+        "en": "Phase 1 delivered July–August 2026: practical training in professional beauty and makeup for women of all ages, through live demonstration and supervised practice. Completion and post-training skill-use measurement: not yet published."
+      },
+      "administrative_status": {
+        "ar": "نُفذت بالتعاون مع مكتب تدريب وتطوير المرأة – بلدية تاجوراء، ومكتب تدريب وتطوير المرأة – بلدية أبوسليم، داخل مراكزهما. المرحلة التالية في جنزور وطرابلس المركز قيد التحضير.",
+        "en": "Delivered in cooperation with the Women's Training & Development Office – Tajoura Municipality and the Women's Training & Development Office – Abu Salim Municipality, inside their centres. Next phase in Janzour and Tripoli Centre in preparation."
+      },
+      "next_steps": {
+        "ar": [
+          "التوسع إلى جنزور وطرابلس المركز",
+          "قياس الإتمام والتقييم العملي",
+          "متابعة استخدام المهارة بعد التدريب"
+        ],
+        "en": [
+          "Expand to Janzour and Tripoli Centre",
+          "Measure completion and practical assessment",
+          "Follow post-training use of the skill"
+        ]
+      },
+      "support": {
+        "ar": "تمويل · مدربون · أدوات ومواد تدريب · رعاية من القطاع الخاص",
+        "en": "Funding · trainers · tools and training materials · private-sector sponsorship"
+      },
+      "media": [
+        "mahira_training_centre.jpg",
+        "mahira_practice.jpg",
+        "mahira_tools.jpg",
+        "c6_mahira_pathway_ar.png",
+        "c6_mahira_pathway_en.png",
+        "c4_women_youth_labour_ar.png",
+        "c4_women_youth_labour_en.png"
+      ]
+    },
+    {
+      "id": "beati",
+      "status_badge": {
+        "ar": "الإطلاق التجريبي: نوفمبر 2026",
+        "en": "Test release: November 2026"
+      },
+      "title": {
+        "ar": "بيئتي",
+        "en": "Beati"
+      },
+      "tagline": {
+        "ar": "تعلّم، ازرع، واصنع أثرًا",
+        "en": "Learn, plant and make an impact"
+      },
+      "summary": {
+        "ar": "مبادرة بيئية وطنية تجمع المعلومة البيئية الموثقة، والعمل الميداني البسيط للأسر — زراعة ورعاية وتنظيف وإبلاغ — والقياس الشفاف للنتائج، ويربط تطبيقها على Android وiOS المواطن ببلديته والجهات الرسمية المختصة.",
+        "en": "A national environmental initiative combining sourced environmental information, simple field action by families — planting, care, clean-ups and reporting — and transparent measurement of results. Its Android and iOS app connects citizens with their municipality and the competent official bodies."
+      },
+      "need": {
+        "ar": [
+          "أكثر من 95% من أراضي ليبيا صحراوية أو شبه صحراوية (UNDP، 2024).",
+          "مساحة الغابات نحو 0.1% من اليابسة (FAO/البنك الدولي، 2023).",
+          "أكثر من 90% من إمدادات المياه من مياه جوفية غير متجددة (UNDP).",
+          "88% من السكان في المدن (البنك الدولي/الأمم المتحدة، 2025).",
+          "الأراضي الجرداء 93% من الغطاء الأرضي في طرابلس الكبرى عام 2025 (المجلة الليبية للعلوم البيئية والتكنولوجيا، 2025).",
+          "الغطاء النباتي في منطقة دراسة شمال شرق الجبل الأخضر انخفض من 99.66 إلى 48.79 كم² بين 2011 و2021 (المجلة الليبية للعلوم الأساسية، 2022).",
+          "لا توجد مؤشرات بيئية رسمية منشورة على مستوى البلدية؛ أدنى مستوى متاح هو الإقليم."
+        ],
+        "en": [
+          "More than 95% of Libya is desert or semi-desert (UNDP, 2024).",
+          "Forest area is about 0.1% of land (FAO/World Bank, 2023).",
+          "Over 90% of water supply comes from non-renewable groundwater (UNDP).",
+          "88% of people live in cities (World Bank/UN, 2025).",
+          "Bare land was 93% of land cover in Greater Tripoli in 2025 (Libyan Journal of Ecological & Environmental Sciences and Technology, 2025).",
+          "Vegetation in a north-east Al-Jabal Al-Akhdar study area fell from 99.66 to 48.79 km² between 2011 and 2021 (Libyan Journal of Basic Sciences, 2022).",
+          "There are no published official environmental indicators at municipal level; the lowest level available is the region."
+        ]
+      },
+      "four_steps": [
+        {
+          "ar": "تعلّم",
+          "en": "Learn",
+          "desc_ar": "معرفة بيئية ليبية موثقة المصدر: دليل نباتات، وعناية موسمية، ومحتوى تراجعه لجنة علمية.",
+          "desc_en": "Sourced, Libya-specific knowledge: plant guide, seasonal care and content reviewed by a scientific committee."
+        },
+        {
+          "ar": "ازرع",
+          "en": "Plant",
+          "desc_ar": "زراعة الأشجار والعناية بها مع الأسر والمدارس والمشاتل، وتذكير بالري والرعاية حتى تبقى الشجرة.",
+          "desc_en": "Planting and care with families, schools and nurseries — with reminders so trees survive, not just get planted."
+        },
+        {
+          "ar": "وثّق",
+          "en": "Document",
+          "desc_ar": "كل شجرة وبلاغ وحملة يُسجَّل بصورة وموقع جغرافي ويمر بتحقق مزدوج — حتى دون إنترنت.",
+          "desc_en": "Every tree, report and campaign logged with photo and GPS and double-verified — even offline."
+        },
+        {
+          "ar": "ساهم",
+          "en": "Contribute",
+          "desc_ar": "تطوع، ودعم عيني، وحملات وطنية، وبلاغات تصل إلى البلدية — مع قياس شفاف لكل مساهمة.",
+          "desc_en": "Volunteering, in-kind support, national campaigns and reports that reach the municipality — each contribution measured."
+        }
+      ],
+      "features": {
+        "ar": [
+          "صفحة لكل بلدية بمؤشرات موثقة ودرجة موثوقية ومصدر لكل رقم",
+          "سجل بيئي يبنيه المواطن بالصورة والموقع والتحقق المزدوج",
+          "تشخيص ذكي للأشجار مبني على صور ميدانية ليبية يراجعها مختصون",
+          "«اسأل بيئتي»: مساعد يجيب فقط من محتوى معتمد، ويقول «لا أعرف» عند غياب الدليل",
+          "مؤشرات الكربون والانبعاثات بمصادرها، ونقاط إعادة التدوير",
+          "حملات وطنية: «شجرة لكل بيت»، تنظيف الشواطئ، «بلدية خضراء»",
+          "تنبيهات رسمية تنقلها من الجهة المختصة دون إصدار تحذيرات خاصة بها",
+          "حماية البيانات: لا نشر لمواقع تعشيش السلاحف البحرية، وحماية بيانات الأطفال بموافقة الوالدين"
+        ],
+        "en": [
+          "A page for each municipality with verified indicators and a source and reliability grade on every figure",
+          "A citizen-built environmental record with photo, location and double verification",
+          "Smart tree diagnosis built on specialist-reviewed Libyan field images",
+          "“Ask Beati”: an assistant that answers only from approved content and says “I don't know” when evidence is missing",
+          "Carbon and emissions indicators with sources; recycling points",
+          "National campaigns: “A Tree for Every Home”, beach clean-ups, “Green Municipality”",
+          "Official alerts relayed from the competent authority — never its own warnings",
+          "Data protection: sea-turtle nesting sites never published; children's data protected with parental consent"
+        ]
+      },
+      "technical_status": {
+        "ar": "النماذج الأولية وأصول التصميم مكتملة · التقنية المعتمدة Flutter وSupabase · تطبيق Android وiOS يعمل دون إنترنت ويزامن لاحقًا · خاصية التشخيص الذكي للأشجار قيد التطوير · المساعد «اسأل بيئتي» والتنبيهات الرسمية مخطط لها في الإصدار 1.1.",
+        "en": "Prototypes and design assets complete · approved stack: Flutter and Supabase · Android and iOS app works offline and syncs later · smart tree diagnosis in development · “Ask Beati” assistant and official alerts planned for v1.1."
+      },
+      "administrative_status": {
+        "ar": "مبادرة مملوكة لمؤسسة بروسباير بهوية معتمدة (رمز السلفيوم). الإطلاق التجريبي الأول مطلع نوفمبر 2026. تواصل مستمر مع وزارتي البيئة والزراعة والاعتماد على بياناتهما، والعمل على إشراك وزارة الحكم المحلي والهيئة العامة للمعلومات جهاتٍ راعية تعتمد المحتوى والبيانات. دراسة بحثية مخططة حول الانبعاثات مع الأكاديمية الليبية للدراسات العليا. خطة تواصل مرحلية مع جهات داعمة محتملة.",
+        "en": "An initiative owned by Prospire Foundation with an approved identity (the Silphium emblem). First test release in early November 2026. Continuous contact with the Ministries of Environment and Agriculture, drawing on their data; working to involve the Ministry of Local Government and the General Information Authority as sponsoring bodies that approve content and data. Planned emissions research study with the Libyan Academy for Postgraduate Studies. A phased outreach plan to potential supporters is in place."
+      },
+      "next_steps": {
+        "ar": [
+          "الإطلاق التجريبي ونشر أول بيانات الاستخدام",
+          "تجربة بلدية بمؤشرات قياس واضحة",
+          "مراجعة فنية لمحتوى النباتات ومراجعة الخصوصية والأمن",
+          "الإصدار 1.1: «اسأل بيئتي» والتنبيهات الرسمية",
+          "التوسع الوطني والاندماج في برامج المناخ والتشجير"
+        ],
+        "en": [
+          "Test release and first usage data",
+          "Municipal pilot with clear indicators",
+          "Technical review of plant content; privacy and security review",
+          "Version 1.1: “Ask Beati” and official alerts",
+          "National scale-up and integration into climate and greening programmes"
+        ]
+      },
+      "support": {
+        "ar": "رعاية مالية · شتلات ومشاتل · دعم عيني (أدوات، حاويات، نقل) · خبرة وتطوع",
+        "en": "Financial sponsorship · seedlings & nurseries · in-kind support (tools, bins, transport) · expertise & volunteering"
+      },
+      "media": [
+        "beati_app_icon.png",
+        "beati_silphium_emblem.png",
+        "desert_oasis_lake.jpg",
+        "murzuq_dunes.jpg",
+        "ras_alhallab_lighthouse.jpg",
+        "al_khums_coast.jpg",
+        "c1_environment_indicators_ar.png",
+        "c1_environment_indicators_en.png",
+        "c2_tripoli_bare_land_ar.png",
+        "c2_tripoli_bare_land_en.png",
+        "c3_jabal_akhdar_land_cover_ar.png",
+        "c3_jabal_akhdar_land_cover_en.png",
+        "c5_beati_four_steps_ar.png",
+        "c5_beati_four_steps_en.png"
+      ]
+    },
+    {
+      "id": "mashroui-5x5",
+      "status_badge": {
+        "ar": "برنامج مبادرة GROWTH · الدورة الأولى قيد الإعداد",
+        "en": "A GROWTH programme · first cohort in preparation"
+      },
+      "title": {
+        "ar": "مشروعي 5×5",
+        "en": "Mashrou'i 5×5"
+      },
+      "tagline": {
+        "ar": "من الفكرة إلى الاستدامة",
+        "en": "From idea to sustainability"
+      },
+      "summary": {
+        "ar": "برنامج للتنمية الاقتصادية المجتمعية يساعد المرأة على تطوير فكرة مشروع، أو تقوية مشروع صغير قائم، وبناء مسار نحو الاعتماد على الذات اقتصاديًا.",
+        "en": "A community economic-development programme that helps women develop a business idea or strengthen an existing small enterprise, and build a path towards economic self-reliance."
+      },
+      "need": {
+        "ar": [
+          "95% من النساء العاملات في ليبيا يعملن في القطاع العام (صندوق النقد الدولي، 2025).",
+          "كثير من التدريبات المقدمة للمرأة دورات قصيرة متفرقة، لا تنتهي بأدوات عملية أو متابعة."
+        ],
+        "en": [
+          "95% of employed women in Libya work in the public sector (IMF, 2025).",
+          "Much of the training offered to women consists of short, scattered courses that end without practical tools or follow-up."
+        ]
+      },
+      "technical_status": {
+        "ar": "المنهجية ومراحلها الخمس والأدوات العملية محددة؛ المواد التدريبية ومعايير اختيار المدربات والمشاركات قيد الإعداد.",
+        "en": "The methodology, its five stages and practical tools are defined; training materials and selection criteria for trainers and participants are in preparation."
+      },
+      "administrative_status": {
+        "ar": "لم تنطلق الدورة الأولى بعد. تُدار ضمن مبادرة GROWTH في مؤسسة بروسباير، والتنفيذ حضوريًا في طرابلس مع المشاركة عن بُعد.",
+        "en": "The first cohort has not started yet. Run within Prospire's GROWTH initiative, delivered in person in Tripoli with online participation."
+      },
+      "next_steps": {
+        "ar": [
+          "استكمال المواد التدريبية وفق منهجية 5×5",
+          "اختيار المدربات والمشاركات",
+          "إطلاق الدورة الأولى وتوثيق نتائجها"
+        ],
+        "en": [
+          "Complete training materials following the 5×5 methodology",
+          "Select trainers and participants",
+          "Launch the first cohort and document its results"
+        ]
+      },
+      "support": {
+        "ar": "نبحث عن شركاء نجاح يؤمنون بقدرة المرأة الليبية، ويشاركوننا صناعة الأثر.",
+        "en": "We are looking for partners in success who believe in Libyan women and want to create impact with us."
+      },
+      "media": [
+        "c4_women_youth_labour_ar.png",
+        "c4_women_youth_labour_en.png"
+      ],
+      "goal": {
+        "ar": "الارتقاء بمنهجية التدريب المقدَّم لدعم المرأة، من دورات قصيرة متفرقة إلى تدريبات منهجية قابلة للقياس وذات أثر، بمواد علمية حقيقية ومخرجات ملموسة.",
+        "en": "To raise the standard of training offered to support women — from short, scattered courses to systematic, measurable training with real impact, built on sound learning materials and tangible outputs."
+      },
+      "methodology_5x5": {
+        "name": {
+          "ar": "منهجية 5×5",
+          "en": "The 5×5 methodology"
+        },
+        "stages": [
+          {
+            "n": 1,
+            "ar": "اكتشفي",
+            "en": "Discover"
+          },
+          {
+            "n": 2,
+            "ar": "صمّمي",
+            "en": "Design"
+          },
+          {
+            "n": 3,
+            "ar": "أديري",
+            "en": "Manage"
+          },
+          {
+            "n": 4,
+            "ar": "بيعي وتواصلي",
+            "en": "Sell & Connect"
+          },
+          {
+            "n": 5,
+            "ar": "حسّني واستدامي",
+            "en": "Improve & Sustain"
+          }
+        ],
+        "note": {
+          "ar": "كل مرحلة تجمع التعلم والتمارين العملية والتغذية الراجعة ومهام من الواقع، ويُقاس تقدّم المشاركة في كل مرحلة.",
+          "en": "Each stage combines learning, practical exercises, feedback and real-world tasks, and each participant's progress is measured at every stage."
+        }
+      },
+      "tools": {
+        "ar": [
+          "نموذج عمل",
+          "جداول التكلفة والتسعير",
+          "سجلات مالية",
+          "خطة تسويق ومبيعات",
+          "خطة عمل فردية"
+        ],
+        "en": [
+          "Business model",
+          "Costing & pricing sheets",
+          "Financial records",
+          "Marketing & sales plan",
+          "Individual action plan"
+        ]
+      },
+      "first_cohort": {
+        "ar": [
+          "25 امرأة حضوريًا في طرابلس، منهن نساء من ذوات الإعاقة، مع إمكانية المشاركة عن بُعد من بلديات أخرى",
+          "4 أشهر تتضمن 9 أيام تدريب عملي، ويوم للتوعية القانونية والاقتصادية",
+          "يوم عرض المشروعات (Demo Day)، وعيادة متابعة لمدة 60 يومًا لقياس الخطوات الفعلية بعد التدريب",
+          "حلقات تعلّم بين المشاركات، وشبكة خريجات",
+          "مواد ميسّرة الوصول، ولغة إشارة عند الطلب"
+        ],
+        "en": [
+          "25 women in person in Tripoli, including women with disabilities, with online participation from other municipalities",
+          "Four months including nine practical training days and a legal & economic awareness day",
+          "A Demo Day and a 60-day follow-up clinic to measure the real steps taken after training",
+          "Peer-learning circles and an alumni network",
+          "Accessible materials and sign-language interpretation on request"
+        ]
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "IMF Article IV 2025 – Libya",
+      "url": "https://www.elibrary.imf.org/view/journals/002/2025/148/article-A001-en.xml"
+    },
+    {
+      "label": "World Bank – Youth unemployment, Libya",
+      "url": "https://data.worldbank.org/indicator/SL.UEM.1524.ZS?locations=LY"
+    },
+    {
+      "label": "World Bank – Youth NEET, Libya",
+      "url": "https://data.worldbank.org/indicator/SL.UEM.NEET.ZS?locations=LY"
+    },
+    {
+      "label": "UNDP Libya (desert share, 2024; National Water Security Strategy 2050)",
+      "url": ""
+    },
+    {
+      "label": "FAO / World Bank – Forest area 2023",
+      "url": ""
+    },
+    {
+      "label": "Libyan Journal of Ecological & Environmental Sciences and Technology, 2025 (Greater Tripoli)",
+      "url": ""
+    },
+    {
+      "label": "Libyan Journal of Basic Sciences, 2022 (NE Al-Jabal Al-Akhdar)",
+      "url": ""
+    }
+  ],
+  "image_credits": [
+    {
+      "file": "leptis_magna_arch.jpg",
+      "place": "Leptis Magna",
+      "photographer": "Montaha",
+      "source": "Pexels",
+      "license": "Pexels License (free)",
+      "url": "https://www.pexels.com/photo/historic-arch-at-leptis-magna-libya-38076912/"
+    },
+    {
+      "file": "tripoli_towers_sea.jpg",
+      "place": "Tripoli",
+      "photographer": "Moayad Zaghdani",
+      "source": "Unsplash",
+      "license": "Unsplash License (free)",
+      "url": "https://unsplash.com/photos/vKF4RjuZThc"
+    },
+    {
+      "file": "desert_oasis_lake.jpg",
+      "place": "Libya",
+      "photographer": "Mohammed Alnaily",
+      "source": "Pexels",
+      "license": "Pexels License (free)",
+      "url": "https://www.pexels.com/photo/scenic-aerial-view-of-desert-oasis-and-sand-dunes-36885274/"
+    },
+    {
+      "file": "murzuq_dunes.jpg",
+      "place": "Murzuq",
+      "photographer": "Audrius Sutkus",
+      "source": "Unsplash",
+      "license": "Unsplash License (free)",
+      "url": "https://unsplash.com/photos/Ggvj8lq_Fs8"
+    },
+    {
+      "file": "al_khums_coast.jpg",
+      "place": "Al Khums",
+      "photographer": "Moayad Zaghdani",
+      "source": "Unsplash",
+      "license": "Unsplash License (free)",
+      "url": "https://unsplash.com/photos/wVpY6W477xo"
+    },
+    {
+      "file": "ras_alhallab_lighthouse.jpg",
+      "place": "Ras Al-Hallab, Gargaresh",
+      "photographer": "Moayad Zaghdani",
+      "source": "Unsplash",
+      "license": "Unsplash License (free)",
+      "url": "https://unsplash.com/photos/A20ECcarNYM"
+    },
+    {
+      "file": "historic_domes_building.jpg",
+      "place": "Libya",
+      "photographer": "Salheen Alagore",
+      "source": "Pexels",
+      "license": "Pexels License (free)",
+      "url": "https://www.pexels.com/photo/historic-architecture-with-domes-in-libya-37458667/"
+    },
+    {
+      "file": "mahira_*.jpg, beati_*.png",
+      "place": "—",
+      "photographer": "Prospire Foundation",
+      "source": "Prospire",
+      "license": "Owned by Prospire",
+      "url": ""
+    }
+  ]
+}

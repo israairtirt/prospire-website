@@ -1,0 +1,262 @@
+{
+  "version": "2026-10-21",
+  "title": {
+    "ar": "لماذا أطلقنا مبادراتنا؟ — الحاجة كما تثبتها البيانات",
+    "en": "Why we launched our initiatives — the need, as the data shows it"
+  },
+  "intro": {
+    "ar": "لا تبدأ بروسباير بفكرة تبحث لها عن تمويل؛ نبدأ بحاجة تثبتها البيانات والدراسات، ثم نصمم الاستجابة ونقيس أثرها. هذه هي التحديات التي دفعتنا إلى إطلاق مبادراتنا الثلاث.",
+    "en": "Prospire does not start with an idea in search of funding. We start with a need confirmed by data and studies, then design the response and measure its impact. These are the challenges that led us to launch our three initiatives."
+  },
+  "challenges": [
+    {
+      "id": "environment",
+      "initiative": {
+        "ar": "بيئتي",
+        "en": "Beati"
+      },
+      "title": {
+        "ar": "التحدي البيئي: أرض تتصحر ومعلومة غائبة",
+        "en": "The environmental challenge: land under pressure, data missing"
+      },
+      "link": {
+        "ar": "لذلك أطلقنا «بيئتي»: لتنظيم الجهد البيئي المتفرق، وتوسيع الرقعة الخضراء بمتابعة حقيقية، وبناء أول طبقة بيانات بيئية موثقة على مستوى البلدية.",
+        "en": "So we launched Beati: to organise scattered environmental effort, expand green cover with real follow-up, and build the first verified municipal-level environmental data layer."
+      },
+      "facts": [
+        {
+          "value": "+95%",
+          "ar": "من أراضي ليبيا صحراوية أو شبه صحراوية",
+          "en": "of Libya is desert or semi-desert",
+          "source": "UNDP, 2024",
+          "url": ""
+        },
+        {
+          "value": "0.1%",
+          "ar": "فقط مساحة الغابات من اليابسة",
+          "en": "forest area as a share of land",
+          "source": "FAO / World Bank, 2023",
+          "url": ""
+        },
+        {
+          "value": "+90%",
+          "ar": "من إمدادات المياه من مياه جوفية غير متجددة",
+          "en": "of water supply from non-renewable groundwater",
+          "source": "UNDP — National Water Security Strategy 2050",
+          "url": ""
+        },
+        {
+          "value": "88%",
+          "ar": "من السكان في المدن — ضغط على المساحات الخضراء",
+          "en": "of people live in cities — pressure on green space",
+          "source": "World Bank / UN, 2025",
+          "url": ""
+        },
+        {
+          "value": "93%",
+          "ar": "أراضٍ جرداء في نطاق طرابلس الكبرى عام 2025",
+          "en": "bare land in Greater Tripoli in 2025",
+          "source": "Libyan Journal of Ecological & Environmental Sciences and Technology, 2025",
+          "url": ""
+        },
+        {
+          "value": "−51%",
+          "ar": "تراجع الغطاء النباتي في منطقة دراسة شمال شرق الجبل الأخضر (2011–2021)",
+          "en": "fall in vegetation in a north-east Al-Jabal Al-Akhdar study area (2011–2021)",
+          "source": "Libyan Journal of Basic Sciences, 2022",
+          "url": ""
+        },
+        {
+          "value": "0",
+          "ar": "مؤشرات بيئية رسمية منشورة على مستوى البلدية — أدنى مستوى متاح هو الإقليم",
+          "en": "published official environmental indicators at municipal level — the lowest level available is the region",
+          "source": "Prospire review of available official data, 2026",
+          "url": ""
+        }
+      ],
+      "charts": [
+        "c1_environment_indicators",
+        "c2_tripoli_bare_land",
+        "c3_jabal_akhdar_land_cover"
+      ]
+    },
+    {
+      "id": "women-opportunity",
+      "initiative": {
+        "ar": "امرأة ماهرة",
+        "en": "Mahira Woman"
+      },
+      "title": {
+        "ar": "فجوة الفرص الاقتصادية للمرأة",
+        "en": "The economic-opportunity gap for women"
+      },
+      "link": {
+        "ar": "لذلك أطلقنا «امرأة ماهرة»: تدريب مهني تطبيقي بتكلفة مخفّضة 90%، داخل مراكز المرأة في البلدية، يفتح طريقًا واقعيًا نحو الدخل خارج الوظيفة العامة.",
+        "en": "So we launched Mahira Woman: practical vocational training at a 90% reduced cost, inside municipal women's centres, opening a realistic path to income beyond public employment."
+      },
+      "facts": [
+        {
+          "value": "95%",
+          "ar": "من النساء العاملات في ليبيا يعملن في القطاع العام",
+          "en": "of employed women in Libya work in the public sector",
+          "source": "IMF Article IV, 2025",
+          "url": "https://www.elibrary.imf.org/view/journals/002/2025/148/article-A001-en.xml"
+        },
+        {
+          "value": "86%",
+          "ar": "من القوى العاملة الرسمية تعمل في القطاع العام",
+          "en": "of the official labour force is in public employment",
+          "source": "IMF Article IV, 2025",
+          "url": "https://www.elibrary.imf.org/view/journals/002/2025/148/article-A001-en.xml"
+        },
+        {
+          "value": "3",
+          "ar": "عوائق رئيسية أمام التدريب: التكلفة، والمسافة، والتدريب النظري بلا ممارسة",
+          "en": "main barriers to training: cost, distance, and theory without practice",
+          "source": "Prospire — Mahira Woman programme design, 2026",
+          "url": ""
+        }
+      ],
+      "charts": [
+        "c4_women_youth_labour",
+        "c6_mahira_pathway"
+      ]
+    },
+    {
+      "id": "training-quality",
+      "initiative": {
+        "ar": "مشروعي 5×5",
+        "en": "Mashrou'i 5×5"
+      },
+      "title": {
+        "ar": "فجوة جودة التدريب وسوق العمل",
+        "en": "The training-quality and labour-market gap"
+      },
+      "link": {
+        "ar": "لذلك صممنا «مشروعي 5×5»: منهجية من خمس مراحل تنتهي بأدوات عملية وقياس ومتابعة، بدل الدورات القصيرة المتفرقة.",
+        "en": "So we designed Mashrou'i 5×5: a five-stage methodology that ends with practical tools, measurement and follow-up, instead of short, scattered courses."
+      },
+      "facts": [
+        {
+          "value": "50%",
+          "ar": "بطالة الشباب (15–24 سنة)",
+          "en": "youth unemployment (ages 15–24)",
+          "source": "World Bank / ILO, 2025",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.1524.ZS?locations=LY"
+        },
+        {
+          "value": "30.5%",
+          "ar": "من الشباب خارج العمل والتعليم والتدريب",
+          "en": "of youth are not in employment, education or training",
+          "source": "ILO modelled estimates, 2025",
+          "url": "https://data.worldbank.org/indicator/SL.UEM.NEET.ZS?locations=LY"
+        },
+        {
+          "value": "2026",
+          "ar": "أطلقت منظمة العمل الدولية تقييمًا سريعًا لمنظومة التشغيل والمهارات في ليبيا لتحديد فجوات المهارات",
+          "en": "the ILO launched a rapid assessment of Libya's employment and skills ecosystem to identify skills mismatches",
+          "source": "ILO, 2026 — via Prospire Libya Training Market Study 2026",
+          "url": ""
+        },
+        {
+          "value": "143",
+          "ar": "بلدية في ليبيا — شبكة وطنية يمكن أن تصل عبرها البرامج التدريبية محليًا",
+          "en": "municipalities in Libya — a national network through which training can reach people locally",
+          "source": "Ministry of Local Government",
+          "url": "https://www.lgm.gov.ly/municipalities"
+        }
+      ],
+      "charts": [
+        "c4_women_youth_labour"
+      ]
+    }
+  ],
+  "how_we_work": {
+    "title": {
+      "ar": "كيف نعمل: من الحاجة إلى الأثر",
+      "en": "How we work: from need to impact"
+    },
+    "intro": {
+      "ar": "نطبق المنهج نفسه في كل مبادرة، حتى تكون النتائج قابلة للتتبع والمقارنة والتحسين.",
+      "en": "We apply the same method in every initiative, so results can be tracked, compared and improved."
+    },
+    "steps": [
+      {
+        "n": "01",
+        "ar": "التشخيص",
+        "en": "Diagnose",
+        "desc_ar": "نقرأ السياق، ونتحقق من الحاجة بالبيانات، ونفهم أصحاب المصلحة والمخاطر.",
+        "desc_en": "We read the context, confirm the need with data, and understand stakeholders and risks."
+      },
+      {
+        "n": "02",
+        "ar": "التصميم",
+        "en": "Design",
+        "desc_ar": "نصمم التدخل مع المجتمع والشركاء، بنتائج ومؤشرات واضحة.",
+        "desc_en": "We co-design the response with communities and partners, with clear results and indicators."
+      },
+      {
+        "n": "03",
+        "ar": "الشراكة",
+        "en": "Partner",
+        "desc_ar": "نحدد الأدوار والمسؤوليات، ونجري العناية الواجبة للشركاء.",
+        "desc_en": "We agree roles and responsibilities and carry out partner due diligence."
+      },
+      {
+        "n": "04",
+        "ar": "التنفيذ",
+        "en": "Deliver",
+        "desc_ar": "تنفيذ منضبط ينقل المعرفة ويبني القدرات المحلية أثناء العمل.",
+        "desc_en": "Disciplined delivery that transfers knowledge and builds local capability along the way."
+      },
+      {
+        "n": "05",
+        "ar": "القياس",
+        "en": "Measure",
+        "desc_ar": "قياس قبلي وبعدي، ومتابعة تطبيق ما تعلّمه المشاركون بعد البرنامج.",
+        "desc_en": "Pre/post assessment and follow-up on how participants apply what they learned."
+      },
+      {
+        "n": "06",
+        "ar": "التعلّم",
+        "en": "Learn",
+        "desc_ar": "نوثق ما نجح وما لم ينجح، ونحسّن قبل أي توسع.",
+        "desc_en": "We document what worked and what did not, and improve before any scale-up."
+      }
+    ],
+    "principles": {
+      "ar": [
+        "لا نشاط بلا غاية، ولا مخرج بلا مسؤولية، ولا تعلّم بلا دليل.",
+        "لا رقم بلا مصدر، وفصل واضح بين ما تحقق وما هو مخطط.",
+        "لا شراكة تُعلن قبل توثيقها.",
+        "حماية المشاركين وبياناتهم جزء من التصميم، لا إضافة لاحقة."
+      ],
+      "en": [
+        "No activity without purpose, no output without ownership, no learning without evidence.",
+        "No figure without a source, and a clear line between what has been achieved and what is planned.",
+        "No partnership announced before it is documented.",
+        "Protecting participants and their data is part of the design, not an afterthought."
+      ]
+    },
+    "in_practice": [
+      {
+        "ar": "امرأة ماهرة",
+        "en": "Mahira Woman",
+        "desc_ar": "تشخيص: عائق التكلفة والمسافة ← تصميم: دعم 90% وتدريب داخل البلدية ← تنفيذ: تاجوراء وأبوسليم ← قياس: الإتمام واستخدام المهارة ← تعلّم: التوسع إلى جنزور وطرابلس المركز.",
+        "desc_en": "Diagnose: cost and distance barriers → Design: 90% subsidy and training inside the municipality → Deliver: Tajoura and Abu Salim → Measure: completion and skill use → Learn: expansion to Janzour and Tripoli Centre."
+      },
+      {
+        "ar": "بيئتي",
+        "en": "Beati",
+        "desc_ar": "تشخيص: غياب البيانات البلدية ← تصميم: سجل بيئي موثق بالصورة والموقع ← تنفيذ: الإطلاق التجريبي نوفمبر 2026 ← قياس: أشجار موثقة وبلاغات ومساهمات ← تعلّم: تجربة بلدية قبل التوسع الوطني.",
+        "desc_en": "Diagnose: no municipal data → Design: a photo- and location-verified environmental record → Deliver: test release November 2026 → Measure: trees documented, reports and contributions → Learn: municipal pilot before national scale-up."
+      },
+      {
+        "ar": "مشروعي 5×5",
+        "en": "Mashrou'i 5×5",
+        "desc_ar": "تشخيص: دورات قصيرة بلا أدوات أو متابعة ← تصميم: خمس مراحل وأدوات عملية ← تنفيذ: دورة أولى لـ25 امرأة ← قياس: عيادة متابعة 60 يومًا ← تعلّم: تحسين النموذج قبل الدورة الثانية.",
+        "desc_en": "Diagnose: short courses without tools or follow-up → Design: five stages and practical tools → Deliver: a first cohort of 25 women → Measure: a 60-day follow-up clinic → Learn: refine the model before the second cohort."
+      }
+    ]
+  }
+}
