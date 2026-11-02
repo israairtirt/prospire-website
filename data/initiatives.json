@@ -6,8 +6,8 @@
     {
       "id": "mahira-woman",
       "status_badge": {
-        "ar": "نُفذت المرحلة الأولى",
-        "en": "Phase 1 delivered"
+        "en": "Ongoing",
+        "ar": "قائمة"
       },
       "title": {
         "ar": "امرأة ماهرة",
@@ -110,8 +110,8 @@
     {
       "id": "beati",
       "status_badge": {
-        "ar": "الإطلاق التجريبي: نوفمبر 2026",
-        "en": "Test release: November 2026"
+        "en": "In development",
+        "ar": "قيد التطوير"
       },
       "title": {
         "ar": "بيئتي",
@@ -241,8 +241,8 @@
     {
       "id": "mashroui-5x5",
       "status_badge": {
-        "ar": "برنامج مبادرة GROWTH · الدورة الأولى قيد الإعداد",
-        "en": "A GROWTH programme · first cohort in preparation"
+        "en": "Submitted for funding",
+        "ar": "مقدَّم للتمويل"
       },
       "title": {
         "ar": "مشروعي 5×5",
@@ -271,8 +271,8 @@
         "en": "The methodology, its five stages and practical tools are defined; training materials and selection criteria for trainers and participants are in preparation."
       },
       "administrative_status": {
-        "ar": "لم تنطلق الدورة الأولى بعد. تُدار ضمن مبادرة GROWTH في مؤسسة بروسباير، والتنفيذ حضوريًا في طرابلس مع المشاركة عن بُعد.",
-        "en": "The first cohort has not started yet. Run within Prospire's GROWTH initiative, delivered in person in Tripoli with online participation."
+        "en": "Submitted for funding · first cohort starts once funding is confirmed",
+        "ar": "مقدَّم للتمويل · الدورة الأولى تنطلق عند اعتماد التمويل"
       },
       "next_steps": {
         "ar": [
