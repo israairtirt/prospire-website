@@ -25,7 +25,7 @@
       },
       "facts": [
         {
-          "value": "+95%",
+          "value": "~95%",
           "ar": "من أراضي ليبيا صحراوية أو شبه صحراوية",
           "en": "of Libya is desert or semi-desert",
           "source": "UNDP, 2024",
@@ -91,28 +91,28 @@
         "en": "The economic-opportunity gap for women"
       },
       "link": {
-        "ar": "لذلك أطلقنا «امرأة ماهرة»: تدريب مهني تطبيقي بتكلفة مخفّضة 90%، داخل مراكز المرأة في البلدية، يفتح طريقًا واقعيًا نحو الدخل خارج الوظيفة العامة.",
-        "en": "So we launched Mahira Woman: practical vocational training at a 90% reduced cost, inside municipal women's centres, opening a realistic path to income beyond public employment."
+        "ar": "لذلك أطلقنا «امرأة ماهرة»: تدريب مهني تطبيقي داخل مراكز تدريب المرأة في البلدية، يفتح طريقًا واقعيًا نحو الدخل خارج الوظيفة العامة.",
+        "en": "So we launched Mahira Woman: practical vocational training inside municipal women's training centres, opening a realistic path to income beyond public employment."
       },
       "facts": [
         {
           "value": "95%",
           "ar": "من النساء العاملات في ليبيا يعملن في القطاع العام",
           "en": "of employed women in Libya work in the public sector",
-          "source": "IMF Article IV, 2025",
+          "source": "IMF Country Report No. 25/148, Libya 2025 Article IV Consultation, Box 2, p. 14",
           "url": "https://www.elibrary.imf.org/view/journals/002/2025/148/article-A001-en.xml"
         },
         {
           "value": "86%",
           "ar": "من القوى العاملة الرسمية تعمل في القطاع العام",
           "en": "of the official labour force is in public employment",
-          "source": "IMF Article IV, 2025",
+          "source": "IMF Country Report No. 25/148, Libya 2025 Article IV Consultation, Box 2, p. 14",
           "url": "https://www.elibrary.imf.org/view/journals/002/2025/148/article-A001-en.xml"
         },
         {
-          "value": "3",
-          "ar": "عوائق رئيسية أمام التدريب: التكلفة، والمسافة، والتدريب النظري بلا ممارسة",
-          "en": "main barriers to training: cost, distance, and theory without practice",
+          "value": "2",
+          "ar": "عائقان رئيسيان أمام التدريب: المسافة، والتدريب النظري بلا ممارسة",
+          "en": "main barriers to training: distance, and theory without practice",
           "source": "Prospire — Mahira Woman programme design, 2026",
           "url": ""
         }
@@ -125,20 +125,20 @@
     {
       "id": "training-quality",
       "initiative": {
-        "ar": "مشروعي 5×5",
-        "en": "Mashrou'i 5×5"
+        "ar": "GROWTH | مشروعي 5×5",
+        "en": "GROWTH | Mashrou'i 5×5"
       },
       "title": {
         "ar": "فجوة جودة التدريب وسوق العمل",
         "en": "The training-quality and labour-market gap"
       },
       "link": {
-        "ar": "لذلك صممنا «مشروعي 5×5»: منهجية من خمس مراحل تنتهي بأدوات عملية وقياس ومتابعة، بدل الدورات القصيرة المتفرقة.",
-        "en": "So we designed Mashrou'i 5×5: a five-stage methodology that ends with practical tools, measurement and follow-up, instead of short, scattered courses."
+        "ar": "لذلك صممنا «GROWTH | مشروعي 5×5»: منهجية من خمس مراحل تنتهي بأدوات عملية وقياس ومتابعة، بدل الدورات القصيرة المتفرقة.",
+        "en": "So we designed GROWTH | Mashrou'i 5×5: a five-stage methodology that ends with practical tools, measurement and follow-up, instead of short, scattered courses."
       },
       "facts": [
         {
-          "value": "50%",
+          "value": "~50%",
           "ar": "بطالة الشباب (15–24 سنة)",
           "en": "youth unemployment (ages 15–24)",
           "source": "World Bank / ILO, 2025",
@@ -157,13 +157,6 @@
           "en": "the ILO launched a rapid assessment of Libya's employment and skills ecosystem to identify skills mismatches",
           "source": "ILO, 2026 — via Prospire Libya Training Market Study 2026",
           "url": ""
-        },
-        {
-          "value": "143",
-          "ar": "بلدية في ليبيا — شبكة وطنية يمكن أن تصل عبرها البرامج التدريبية محليًا",
-          "en": "municipalities in Libya — a national network through which training can reach people locally",
-          "source": "Ministry of Local Government",
-          "url": "https://www.lgm.gov.ly/municipalities"
         }
       ],
       "charts": [
@@ -211,8 +204,8 @@
       },
       {
         "n": "05",
-        "ar": "القياس",
-        "en": "Measure",
+        "ar": "المتابعة والتقييم",
+        "en": "Monitor & evaluate",
         "desc_ar": "قياس قبلي وبعدي، ومتابعة تطبيق ما تعلّمه المشاركون بعد البرنامج.",
         "desc_en": "Pre/post assessment and follow-up on how participants apply what they learned."
       },
@@ -242,20 +235,20 @@
       {
         "ar": "امرأة ماهرة",
         "en": "Mahira Woman",
-        "desc_ar": "تشخيص: عائق التكلفة والمسافة ← تصميم: دعم 90% وتدريب داخل البلدية ← تنفيذ: تاجوراء وأبوسليم ← قياس: الإتمام واستخدام المهارة ← تعلّم: التوسع إلى جنزور وطرابلس المركز.",
-        "desc_en": "Diagnose: cost and distance barriers → Design: 90% subsidy and training inside the municipality → Deliver: Tajoura and Abu Salim → Measure: completion and skill use → Learn: expansion to Janzour and Tripoli Centre."
+        "desc_ar": "تشخيص: عائق المسافة والتدريب النظري ← تصميم: تدريب داخل البلدية بممارسة تحت الإشراف ← تنفيذ: تاجوراء وأبوسليم ← متابعة وتقييم: الإتمام واستخدام المهارة ← تعلّم وتكيّف: التوسع إلى جنزور وطرابلس المركز.",
+        "desc_en": "Diagnose: distance and theory-only training → Design: training inside the municipality, with supervised practice → Deliver: Tajoura and Abu Salim → Monitor & evaluate: completion and skill use → Learn & adapt: expansion to Janzour and Tripoli Centre."
       },
       {
         "ar": "بيئتي",
         "en": "Beati",
-        "desc_ar": "تشخيص: غياب البيانات البلدية ← تصميم: سجل بيئي موثق بالصورة والموقع ← تنفيذ: الإطلاق التجريبي نوفمبر 2026 ← قياس: أشجار موثقة وبلاغات ومساهمات ← تعلّم: تجربة بلدية قبل التوسع الوطني.",
-        "desc_en": "Diagnose: no municipal data → Design: a photo- and location-verified environmental record → Deliver: test release November 2026 → Measure: trees documented, reports and contributions → Learn: municipal pilot before national scale-up."
+        "desc_ar": "تشخيص: غياب البيانات البلدية ← تصميم: سجل بيئي موثق بالصورة والموقع ← تنفيذ: إطلاق تجريبي عند الجاهزية ← متابعة وتقييم: أشجار موثقة وبلاغات ومساهمات ← تعلّم وتكيّف: تجربة بلدية قبل التوسع الوطني.",
+        "desc_en": "Diagnose: no municipal data → Design: a photo- and location-verified environmental record → Deliver: test release when ready → Monitor & evaluate: trees documented, reports and contributions → Learn & adapt: municipal pilot before national scale-up."
       },
       {
-        "ar": "مشروعي 5×5",
-        "en": "Mashrou'i 5×5",
-        "desc_ar": "تشخيص: دورات قصيرة بلا أدوات أو متابعة ← تصميم: خمس مراحل وأدوات عملية ← تنفيذ: دورة أولى لـ25 امرأة ← قياس: عيادة متابعة 60 يومًا ← تعلّم: تحسين النموذج قبل الدورة الثانية.",
-        "desc_en": "Diagnose: short courses without tools or follow-up → Design: five stages and practical tools → Deliver: a first cohort of 25 women → Measure: a 60-day follow-up clinic → Learn: refine the model before the second cohort."
+        "ar": "GROWTH | مشروعي 5×5",
+        "en": "GROWTH | Mashrou'i 5×5",
+        "desc_ar": "تشخيص: دورات قصيرة بلا أدوات أو متابعة ← تصميم: خمس مراحل وأدوات عملية ← تنفيذ: دورة أولى لـ25 امرأة ← متابعة وتقييم: عيادة متابعة 60 يومًا ← تعلّم وتكيّف: تحسين النموذج قبل الدورة الثانية.",
+        "desc_en": "Diagnose: short courses without tools or follow-up → Design: five stages and practical tools → Deliver: a first cohort of 25 women → Monitor & evaluate: a 60-day follow-up clinic → Learn & adapt: refine the model before the second cohort."
       }
     ]
   }

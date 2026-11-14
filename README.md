@@ -11,11 +11,11 @@ Bilingual website for Prospire Foundation, a Libyan civil society foundation tha
 | Client | Prospire Foundation, Libya |
 | Views | Home, About, Team, Why we act, Initiatives (Mahira, Beati, Mashroui), How we work, Network, Partnerships, Contact |
 | Languages | English and Arabic, right to left |
-| Built with | HTML, CSS and JavaScript, no framework and no build step |
+| Built with | HTML, CSS and JavaScript, no framework |
 
 ## What I built
 
-- A single-page site with hash routing across twelve views, each with its own title, and deep links that survive a refresh.
+- Twelve views, each with its own address, title, description and link preview, with in-page navigation between them and old `#/` links redirected.
 - English and Arabic side by side in the markup, with the language, direction and theme set before the first paint so nothing flickers.
 - Light and dark themes, a Ctrl+K command palette that searches pages, people and places, and an interactive map of the foundation's network across Libya.
 - A motion system (word-split headings, count-ups, reveals) that respects reduced-motion settings.

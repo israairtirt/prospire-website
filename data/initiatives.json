@@ -7,7 +7,7 @@
       "id": "mahira-woman",
       "status_badge": {
         "en": "Ongoing",
-        "ar": "قائمة"
+        "ar": "جارية"
       },
       "title": {
         "ar": "امرأة ماهرة",
@@ -23,19 +23,17 @@
       },
       "need": {
         "ar": [
-          "95% من النساء العاملات في ليبيا يعملن في القطاع العام، والفرص خارجه محدودة (صندوق النقد الدولي، 2025).",
-          "تكلفة التدريب المهني الجيد عائق حقيقي أمام كثير من النساء.",
+          "95% من النساء العاملات في ليبيا يعملن في القطاع العام، والفرص خارجه محدودة (صندوق النقد الدولي، التقرير القُطري رقم 25/148، 2025).",
           "بُعد مراكز التدريب يضيف عائق التنقل."
         ],
         "en": [
-          "95% of employed women in Libya work in the public sector; opportunity outside it is limited (IMF, 2025).",
-          "The cost of quality vocational training is a real barrier for many women.",
+          "95% of employed women in Libya work in the public sector; opportunity outside it is limited (IMF Country Report No. 25/148, 2025).",
           "Distance to training centres adds a mobility barrier."
         ]
       },
       "response": {
-        "ar": "نموذج يزيل العوائق الثلاثة معًا: تخفيض الرسوم 90%، والتدريب داخل مراكز المرأة البلدية، والتعلم بالممارسة.",
-        "en": "A model that removes all three barriers at once: a 90% fee reduction, training inside municipal women's centres, and learning by doing."
+        "ar": "نموذج يزيل العائقين معًا: التدريب داخل مراكز المرأة البلدية، والتعلم بالممارسة. تُقدَّم الدورات بالتعاون مع مراكز تدريب وتطوير المرأة.",
+        "en": "A model that removes both barriers at once: training inside municipal women's centres, and learning by doing. Courses are delivered in cooperation with the Women's Training & Development Centres."
       },
       "model": {
         "ar": [
@@ -58,11 +56,6 @@
           "en": "women targeted"
         },
         {
-          "value": "90%",
-          "ar": "تخفيض في الرسوم",
-          "en": "fee reduction"
-        },
-        {
           "value": "2",
           "ar": "بلديتان نُفذت فيهما المرحلة الأولى",
           "en": "municipalities delivered"
@@ -74,12 +67,12 @@
         }
       ],
       "technical_status": {
-        "ar": "نُفذت المرحلة الأولى في يوليو–أغسطس 2026: تدريب تطبيقي على التجميل والمكياج الاحترافي لسيدات من مختلف الأعمار، بالعرض المباشر والممارسة تحت الإشراف. قياس الإتمام واستخدام المهارة بعد التدريب: لم يُنشر بعد.",
-        "en": "Phase 1 delivered July–August 2026: practical training in professional beauty and makeup for women of all ages, through live demonstration and supervised practice. Completion and post-training skill-use measurement: not yet published."
+        "ar": "نُفذت المرحلة الأولى في يوليو–أغسطس 2026: تدريب تطبيقي على التجميل والمكياج الاحترافي لسيدات من مختلف الأعمار، بالعرض المباشر والممارسة تحت الإشراف. المرحلة الأولى: 40 متدربة أنهين التدريب وحصلن على الشهادة في أبوسليم وتاجوراء. الدورة القادمة في مركز تدريب وتطوير المرأة جنزور منتصف نوفمبر 2026.",
+        "en": "Phase 1 delivered July–August 2026: practical training in professional beauty and makeup for women of all ages, through live demonstration and supervised practice. Phase one: 40 trainees completed the training and received their certificates in Abu Salim and Tajoura. The next course takes place at the Women's Training & Development Centre, Janzour, in mid-November 2026."
       },
       "administrative_status": {
-        "ar": "نُفذت بالتعاون مع مكتب تدريب وتطوير المرأة – بلدية تاجوراء، ومكتب تدريب وتطوير المرأة – بلدية أبوسليم، داخل مراكزهما. المرحلة التالية في جنزور وطرابلس المركز قيد التحضير.",
-        "en": "Delivered in cooperation with the Women's Training & Development Office – Tajoura Municipality and the Women's Training & Development Office – Abu Salim Municipality, inside their centres. Next phase in Janzour and Tripoli Centre in preparation."
+        "ar": "نُفذت بالتعاون مع مكتب تدريب وتطوير المرأة – بلدية تاجوراء، ومكتب تدريب وتطوير المرأة – بلدية أبوسليم، داخل مراكزهما. جنزور: التسجيل مفتوح — الدورة القادمة منتصف نوفمبر 2026 في مركز تدريب وتطوير المرأة جنزور. طرابلس المركز قيد التحضير.",
+        "en": "Delivered in cooperation with the Women's Training & Development Office – Tajoura Municipality and the Women's Training & Development Office – Abu Salim Municipality, inside their centres. Janzour: registration open — next course mid-November 2026 at the Women's Training & Development Centre, Janzour. Tripoli Centre in preparation."
       },
       "next_steps": {
         "ar": [
@@ -105,7 +98,11 @@
         "c6_mahira_pathway_en.png",
         "c4_women_youth_labour_ar.png",
         "c4_women_youth_labour_en.png"
-      ]
+      ],
+      "janzour_course": {
+        "en": "Janzour: registration open — Professional Makeup Course, 4 days, next course mid-November 2026, with makeup artist Mawadda Aburoniya. Location: Al-Rteimi intersection toward Al-Najila, opposite the Water Park — Women's Training & Development Centre, Janzour. Programme: Day 1 Cut Crease look · Day 2 Smokey Eye look · Day 3 Spotlight look · Day 4 full hands-on practice and skills assessment.",
+        "ar": "جنزور: التسجيل مفتوح — كورس المكياج الاحترافي، 4 أيام، الدورة القادمة منتصف نوفمبر 2026، مع الأرتيست مودة أبورونية. الموقع: تقاطع الرتيمي في اتجاه النجيلة، مقابل مدينة الألعاب المائية — مركز تدريب وتطوير المرأة جنزور. البرنامج: اليوم الأول لوك Cut Crease · اليوم الثاني لوك Smokey Eye · اليوم الثالث لوك Spotlight · اليوم الرابع تطبيق عملي شامل وتقييم المهارات."
+      }
     },
     {
       "id": "beati",
@@ -127,7 +124,7 @@
       },
       "need": {
         "ar": [
-          "أكثر من 95% من أراضي ليبيا صحراوية أو شبه صحراوية (UNDP، 2024).",
+          "نحو 95% من أراضي ليبيا صحراوية أو شبه صحراوية (UNDP، 2024).",
           "مساحة الغابات نحو 0.1% من اليابسة (FAO/البنك الدولي، 2023).",
           "أكثر من 90% من إمدادات المياه من مياه جوفية غير متجددة (UNDP).",
           "88% من السكان في المدن (البنك الدولي/الأمم المتحدة، 2025).",
@@ -136,13 +133,13 @@
           "لا توجد مؤشرات بيئية رسمية منشورة على مستوى البلدية؛ أدنى مستوى متاح هو الإقليم."
         ],
         "en": [
-          "More than 95% of Libya is desert or semi-desert (UNDP, 2024).",
+          "About 95% of Libya is desert or semi-desert (UNDP, 2024).",
           "Forest area is about 0.1% of land (FAO/World Bank, 2023).",
           "Over 90% of water supply comes from non-renewable groundwater (UNDP).",
           "88% of people live in cities (World Bank/UN, 2025).",
           "Bare land was 93% of land cover in Greater Tripoli in 2025 (Libyan Journal of Ecological & Environmental Sciences and Technology, 2025).",
           "Vegetation in a north-east Al-Jabal Al-Akhdar study area fell from 99.66 to 48.79 km² between 2011 and 2021 (Libyan Journal of Basic Sciences, 2022).",
-          "There are no published official environmental indicators at municipal level; the lowest level available is the region."
+          "We found no published official environmental indicators at municipal level (Prospire review, 2026); the lowest level available is the region."
         ]
       },
       "four_steps": [
@@ -194,12 +191,12 @@
         ]
       },
       "technical_status": {
-        "ar": "النماذج الأولية وأصول التصميم مكتملة · التقنية المعتمدة Flutter وSupabase · تطبيق Android وiOS يعمل دون إنترنت ويزامن لاحقًا · خاصية التشخيص الذكي للأشجار قيد التطوير · المساعد «اسأل بيئتي» والتنبيهات الرسمية مخطط لها في الإصدار 1.1.",
-        "en": "Prototypes and design assets complete · approved stack: Flutter and Supabase · Android and iOS app works offline and syncs later · smart tree diagnosis in development · “Ask Beati” assistant and official alerts planned for v1.1."
+        "ar": "النماذج الأولية وأصول التصميم مكتملة، ويُعلن عن الإطلاق التجريبي عند اكتمال الاختبارات والمراجعات اللازمة. التقنية المعتمدة Flutter وSupabase · تطبيق Android وiOS يعمل دون إنترنت ويزامن لاحقًا · خاصية التشخيص الذكي للأشجار قيد التطوير · المساعد «اسأل بيئتي» والتنبيهات الرسمية مخطط لها في الإصدار 1.1.",
+        "en": "Prototypes and design assets are complete. The test release will be announced once the required testing and reviews are complete. Approved stack: Flutter and Supabase · Android and iOS app works offline and syncs later · smart tree diagnosis in development · “Ask Beati” assistant and official alerts planned for v1.1."
       },
       "administrative_status": {
-        "ar": "مبادرة مملوكة لمؤسسة بروسباير بهوية معتمدة (رمز السلفيوم). الإطلاق التجريبي الأول مطلع نوفمبر 2026. تواصل مستمر مع وزارتي البيئة والزراعة والاعتماد على بياناتهما، والعمل على إشراك وزارة الحكم المحلي والهيئة العامة للمعلومات جهاتٍ راعية تعتمد المحتوى والبيانات. دراسة بحثية مخططة حول الانبعاثات مع الأكاديمية الليبية للدراسات العليا. خطة تواصل مرحلية مع جهات داعمة محتملة.",
-        "en": "An initiative owned by Prospire Foundation with an approved identity (the Silphium emblem). First test release in early November 2026. Continuous contact with the Ministries of Environment and Agriculture, drawing on their data; working to involve the Ministry of Local Government and the General Information Authority as sponsoring bodies that approve content and data. Planned emissions research study with the Libyan Academy for Postgraduate Studies. A phased outreach plan to potential supporters is in place."
+        "ar": "مبادرة مملوكة لمؤسسة بروسباير بهوية معتمدة (رمز السلفيوم). نعمل على بناء شراكات مع الجهات الرسمية المختصة في مجالات البيئة والزراعة والحكم المحلي والمعلومات، وتُعلن الشراكات بعد توثيقها.",
+        "en": "An initiative owned by Prospire Foundation with an approved identity (the Silphium emblem). We are working to build partnerships with the competent official bodies in environment, agriculture, local government and information; partnerships are announced once documented."
       },
       "next_steps": {
         "ar": [
@@ -241,8 +238,8 @@
     {
       "id": "mashroui-5x5",
       "status_badge": {
-        "en": "Submitted for funding",
-        "ar": "مقدَّم للتمويل"
+        "en": "In preparation",
+        "ar": "قيد التحضير"
       },
       "title": {
         "ar": "مشروعي 5×5",
@@ -258,11 +255,11 @@
       },
       "need": {
         "ar": [
-          "95% من النساء العاملات في ليبيا يعملن في القطاع العام (صندوق النقد الدولي، 2025).",
+          "95% من النساء العاملات في ليبيا يعملن في القطاع العام (صندوق النقد الدولي، التقرير القُطري رقم 25/148، 2025).",
           "كثير من التدريبات المقدمة للمرأة دورات قصيرة متفرقة، لا تنتهي بأدوات عملية أو متابعة."
         ],
         "en": [
-          "95% of employed women in Libya work in the public sector (IMF, 2025).",
+          "95% of employed women in Libya work in the public sector (IMF Country Report No. 25/148, 2025).",
           "Much of the training offered to women consists of short, scattered courses that end without practical tools or follow-up."
         ]
       },
@@ -271,8 +268,8 @@
         "en": "The methodology, its five stages and practical tools are defined; training materials and selection criteria for trainers and participants are in preparation."
       },
       "administrative_status": {
-        "en": "Submitted for funding · first cohort starts once funding is confirmed",
-        "ar": "مقدَّم للتمويل · الدورة الأولى تنطلق عند اعتماد التمويل"
+        "en": "In preparation — the date and location of the first cohort will be announced.",
+        "ar": "قيد التحضير — يُعلن عن موعد الدورة الأولى ومكانها لاحقًا."
       },
       "next_steps": {
         "ar": [
@@ -366,12 +363,16 @@
           "Peer-learning circles and an alumni network",
           "Accessible materials and sign-language interpretation on request"
         ]
+      },
+      "name": {
+        "ar": "GROWTH | مشروعي 5×5",
+        "en": "GROWTH | Mashrou'i 5×5"
       }
     }
   ],
   "sources": [
     {
-      "label": "IMF Article IV 2025 – Libya",
+      "label": "IMF Country Report No. 25/148, Libya 2025 Article IV Consultation, Box 2, p. 14",
       "url": "https://www.elibrary.imf.org/view/journals/002/2025/148/article-A001-en.xml"
     },
     {
@@ -464,5 +465,6 @@
       "license": "Owned by Prospire",
       "url": ""
     }
-  ]
+  ],
+  "last_updated": "2026-11-14"
 }
